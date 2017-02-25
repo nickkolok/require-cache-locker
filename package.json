@@ -1,0 +1,24 @@
+{
+  "name": "require-cache-locker",
+  "version": "0.0.1",
+  "description": "Simple tool to avoid unpredictable use of fs, http, etc. by elementary libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "js demo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nickkolok/require-cache-locker.git"
+  },
+  "keywords": [
+    "require",
+    "cache",
+    "lock"
+  ],
+  "author": "Nikolay Avdeev <nickkolok@mail.ru>",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/nickkolok/require-cache-locker/issues"
+  },
+  "homepage": "https://github.com/nickkolok/require-cache-locker#readme"
+}
